@@ -55,7 +55,6 @@
 
 
 
-
 ### 微服务相关
 
 - [[ RuoYi-Cloud-Plus ]](https://gitee.com/JavaLionLi/RuoYi-Cloud-Plus)：重写RuoYi-Cloud所有功能 整合 SpringCloudAlibaba + Sa-Token + Dubbo + Mybatis-Plus + Xxl-Job 全方位升级 定期同步
@@ -93,6 +92,8 @@
 - [[ iot-kit ]](https://gitee.com/iotkit-open-source/iotkit-parent)：一个轻量级低门槛的物联网平台，包含了多协议设备接入、规则引擎、第三方平台接入、智能家居小程序等模块的项目，基于SpringBoot架构并集成了Sa-Token的OAuth2认证。
 
 - [[ 拾壹博客 ]](https://gitee.com/quequnlong/shiyi-blog)：一款vue+springboot前后端分离的博客系统，博客后台管理系统使用了vue+elmentui开发，后端使用Sa-Token进行权限管理,支持动态菜单权限，动态定时任务，文件支持本地和七牛云上传，使用ElasticSearch作为全文检索服务，支持QQ、微博、码云登录。
+
+- [[ cubic ]](https://gitee.com/dromara/cubic)：一站式问题定位平台，实时线程栈监控、线程池监控、动态arthas命令集、依赖分析等等等，助你快速定位问题。
 
 
 
