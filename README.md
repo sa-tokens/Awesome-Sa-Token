@@ -79,6 +79,8 @@
 
 - [[ Sa-Token-Plugin ]](https://gitee.com/bootx/sa-token-plugin)：Sa-Token第三方插件实现，基于Sa-Token-Core，提供一些与官方不同实现机制的的插件集合，作为Sa-Token开源生态的补充
 
+- [[ quarkus-sa-token ]](https://github.com/quarkiverse/quarkus-sa-token)： quarkus 整合 Sa-Token。
+
 
 
 ### 其它
