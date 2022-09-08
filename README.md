@@ -23,7 +23,7 @@
 
 - [[ dcy-fast ]](https://gitee.com/dcy421/dcy-fast)：一个基于 SpringBoot + Sa-Token + Mybatis-Plus 的后台管理系统，前端vue-element-admin，并且内置代码生成器。
 
-- [[ Helio-Starters ]](https://gitee.com/uncarbon97/helio-starters)：基于JDK15 + Spring Boot 2.4 + Sa-Token + Mybatis-Plus的单体Boot版脚手架和微服务Cloud版脚手架，带有配套后台管理前端模板及代码生成器
+- [[ Helio-Boot ]](https://gitee.com/uncarbon97/helio-boot)：基于 SpringBoot + Sa-Token + Mybatis-Plus 的单体开发脚手架，带有配套后台管理前端模板及代码生成器；拥有对应微服务版脚手架`Helio-Cloud`
 
 - [[ EasyAdmin ]](https://gitee.com/lakernote/easy-admin)：一个基于SpringBoot2 + Sa-Token + Mybatis-Plus + Snakerflow + Layui 的后台管理系统，灵活多变可前后端分离，也可单体，内置代码生成器、权限管理、工作流引擎等
 
@@ -72,6 +72,8 @@
 - [[ fhs-framework ]](https://gitee.com/fhs-opensource/fhs-framework)：基于Springboot+Springcloud + Mybatis Plus + sa-token+ vue + elementui 的快速开发平台(低代码开发平台)，本框架永远免费，永久全开源
 
 - [[ Pig-Satoken ]](https://gitee.com/wchenyang/cloud-satoken)：重写 Pig 授权方式为 Sa-Token，其他代码不变。
+
+- [[ Helio-Cloud ]](https://gitee.com/uncarbon97/helio-cloud)：基于 SpringBoot + SpringCloud Alibaba + Sa-Token + Mybatis-Plus 的微服务开发脚手架，带有配套后台管理前端模板及代码生成器
 
 
 
