@@ -69,11 +69,13 @@
 
 - [[ dcy-fast-cloud ]](https://gitee.com/dcy421/dcy-fast-cloud)：一个基于 SpringCloudAlibaba + Sa-Token + dubbo2.7.8 + Seata + knife4j + Mybatis-Plus + MapStruct +  的后台管理系统，前端vue-element-admin，并且内置代码生成器+动态路由权限等功能
 
-- [[ fhs-framework ]](https://gitee.com/fhs-opensource/fhs-framework)：基于Springboot+Springcloud + Mybatis Plus + sa-token+ vue + elementui 的快速开发平台(低代码开发平台)，本框架永远免费，永久全开源
+- [[ fhs-framework ]](https://gitee.com/fhs-opensource/fhs-framework)：基于Springboot+Springcloud + Mybatis Plus + Sa-Token + Vue + ElementUI 的快速开发平台(低代码开发平台)，本框架永远免费，永久全开源
 
 - [[ Pig-Satoken ]](https://gitee.com/wchenyang/cloud-satoken)：重写 Pig 授权方式为 Sa-Token，其他代码不变。
 
 - [[ Helio-Cloud ]](https://gitee.com/uncarbon97/helio-cloud)：基于 SpringBoot + SpringCloud Alibaba + Sa-Token + Mybatis-Plus 的微服务开发脚手架，带有配套后台管理前端模板及代码生成器
+
+- [[ BudWk-V7 ]](https://gitee.com/budwk/budwk)：基于 NutzBoot + Sa-Token + Dubbo + Nacos注册&配置中心 的微服务开发脚手架(同时提供单应用版本)，带有配套后台管理前端模板及代码生成器
 
 
 
