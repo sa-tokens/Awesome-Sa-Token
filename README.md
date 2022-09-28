@@ -52,7 +52,7 @@
 - [[ magic-boot ]](https://gitee.com/ssssssss-team/magic-boot)：基于 magic-api + Sa-Token 搭建的快速开发平台，可以实现在浏览器编写Vue代码，既改即生效
 
 - [[ chaos ]](https://gitee.com/qishanor/chaos)：一个基于 SpringBoot + Sa-Token + Mybatis-Plus的快速开发框架，前端vue-element-avue,内置代码生成器，代码最简洁，最佳学习实践方案。
-- [[ chaos ]](https://gitee.com/xiaozhizxj/xzadmin)：一个基于 Spring Boot+mybatis-plus+sotaken+Redis+Thymeleaf+hutool+easy-captcha+log4j的后台管理系统
+- [[ xzadmin]](https://gitee.com/xiaozhizxj/xzadmin)：一个基于 Spring Boot+mybatis-plus+sotaken+Redis+Thymeleaf+hutool+easy-captcha+log4j的后台管理系统
 
 
 
