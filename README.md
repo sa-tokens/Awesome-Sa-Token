@@ -39,7 +39,7 @@
 
 - [[ 人事管理系统后端 ]](https://gitee.com/sdones_1512/personnel-management-system-back-end)：人事管理系统后端，框架：springboot，持久层：mybatis，缓存：redis，权限：sa-token
 
-- [[ bootx-platform ]](https://gitee.com/bootx/bootx-platform)：集成sa-token和sa-token-plugin并深度定制认证模块，包含多级别数据范围权限、数据自动加解密、数据脱敏、超级查询器、以及支付收单、消息通知等准商用功能的开源免费开发脚手架项目
+- [[ bootx-platform ]](https://gitee.com/bootx/bootx-platform)：包含支付收单(支付宝、微信、聚合、组合支付)、工作流(Flowable)、三方对接(微信、钉钉、企微、短信)等模块，前端基于Vue2和Vue3分别打造，可应用在不同业务场景中，目标是致力实现媲美商业版应用脚手架。
 
 - [[ spba-admin ]](https://gitee.com/qkdja/spring-boot-admin)：基于SpringBoot、Vue开发的通用后台管理系统，做到开箱即用，为新项目开发省去了基础功能开发的步骤。主要使用Sa-Token权限认证、MyBatis-Plus、MySQL、Redis、validation、七牛云等技术。
 
