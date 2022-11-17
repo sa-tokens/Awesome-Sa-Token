@@ -19,8 +19,6 @@
 
 ### 后台管理
 
-- [[ XyyAdmin ]](https://gitee.com/xyy12611/springboot-xyy-admin-v3)：开箱即用的前后端分离后台权限系统，关键技术SpringBoot、Sa-Token、MySql、Vue3、AntDesignVue。
-
 - [[ Sa-Plus ]](https://gitee.com/click33/sa-plus)：一个基于 SpringBoot 架构的快速开发框架，内置代码生成器。
 
 - [[ dcy-fast ]](https://gitee.com/dcy421/dcy-fast)：一个基于 SpringBoot + Sa-Token + Mybatis-Plus 的后台管理系统，前端vue-element-admin，并且内置代码生成器。
@@ -58,6 +56,8 @@
 - [[ xzadmin ]](https://gitee.com/xiaozhizxj/xzadmin)：一个基于 Spring Boot+mybatis-plus+sotaken+Redis+Thymeleaf+hutool+easy-captcha+log4j的后台管理系统
 
 - [[ Snowy ]](https://gitee.com/xiaonuobase/snowy)：国内首个国密前后分离快速开发平台，采用 Vue3 + AntDesignVue3 + Vite + SpringBoot + Mp + HuTool + SaToken
+
+- [[ XyyAdmin ]](https://gitee.com/xyy12611/springboot-xyy-admin-v3)：开箱即用的前后端分离后台权限系统，关键技术SpringBoot、Sa-Token、MySql、Vue3、AntDesignVue。
 
 
 
