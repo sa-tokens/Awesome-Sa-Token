@@ -61,7 +61,7 @@
 
 - [[ XyyAdmin ]](https://gitee.com/xyy12611/springboot-xyy-admin-v3)：开箱即用的前后端分离后台权限系统，关键技术SpringBoot、Sa-Token、MySql、Vue3、AntDesignVue。
 
-- [[ sa-admin-server ]](https://gitee.com/wlf213/sa-admin-server)：sa-admin-server是一个后台管理框架的服务端，核心技术：SpringBoot+SaToken+Quartz+Cache+Redis+Netty+MyBatisPlus; 亮点：RABC动态权限+零SQL+定时任务+缓存+在线IM; 可选七牛云对象存储和本地存储两种方式。
+- [[ sa-admin-server ]](https://gitee.com/wlf213/sa-admin-server)：sa-admin-server是一个后台管理框架的服务端，核心技术：SpringBoot+SaToken+Quartz+Cache+Redis+Netty+MyBatisPlus; 亮点：RABC动态权限+零SQL+定时任务+缓存+在线IM; 前后端可分离也可一体部署，可选七牛云对象存储和本地存储两种方式。
 
 
 
