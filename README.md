@@ -63,7 +63,7 @@
 
 - [[ sa-admin-server ]](https://gitee.com/wlf213/sa-admin-server)：sa-admin-server是一个后台管理框架的服务端，核心技术：SpringBoot+SaToken+Quartz+Cache+Redis+Netty+MyBatisPlus; 亮点：RABC动态权限+零SQL+定时任务+缓存+在线IM; 前后端可分离也可一体部署，可选七牛云对象存储和本地存储两种方式。
 
-
+- [[ RuoYi-Vue-CMS ]](https://gitee.com/liweiyi/RuoYi-Vue-CMS)：RuoYi-Vue-CMS是前后端分离的内容管理系统，支持站群管理、多平台静态化、元数据模型扩展、多语言、全文检索，能轻松组织各种复杂内容形态。技术栈：SpringBoot3 + VUE2 + MybatisPlus + Sa-Token + xxl-job + Freemarker + ES + Redis + MySQL。
 
 
 ### 微服务相关
