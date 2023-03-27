@@ -27,7 +27,7 @@
 
 - [[ EasyAdmin ]](https://gitee.com/lakernote/easy-admin)：一个基于SpringBoot2 + Sa-Token + Mybatis-Plus + Snakerflow + Layui 的后台管理系统，灵活多变可前后端分离，也可单体，内置代码生成器、权限管理、工作流引擎等
 
-- [[ RuoYi-Vue-Plus ]](https://gitee.com/JavaLionLi/RuoYi-Vue-Plus/)：重写RuoYi-Vue所有功能 集成 Sa-Token+Mybatis-Plus+Jackson+Xxl-Job+knife4j+Hutool+OSS 定期同步
+- [[ RuoYi-Vue-Plus ]](https://gitee.com/dromara/RuoYi-Vue-Plus)：重写RuoYi-Vue所有功能 集成 Sa-Token+Mybatis-Plus+Jackson+Xxl-Job+knife4j+Hutool+OSS 定期同步
 
 - [[ SpringBoot_v2 ]](https://gitee.com/bdj/SpringBoot_v2)：SpringBoot_v2项目是努力打造springboot框架的极致细腻的脚手架。
 
@@ -68,7 +68,7 @@
 
 ### 微服务相关
 
-- [[ RuoYi-Cloud-Plus ]](https://gitee.com/JavaLionLi/RuoYi-Cloud-Plus)：重写RuoYi-Cloud所有功能 整合 SpringCloudAlibaba + Sa-Token + Dubbo + Mybatis-Plus + Xxl-Job 全方位升级 定期同步
+- [[ RuoYi-Cloud-Plus ]](https://gitee.com/dromara/RuoYi-Cloud-Plus)：重写RuoYi-Cloud所有功能 整合 SpringCloudAlibaba + Sa-Token + Dubbo + Mybatis-Plus + Xxl-Job 全方位升级 定期同步
 
 - [[ Sp-Cloud ]](https://gitee.com/click33/sp-cloud)：Sa-Plus的微服务版本, 基于Spring-Cloud-Alibaba，微服务下使用Sa-Token的样例
 
