@@ -92,6 +92,7 @@
 
 - [[ BudWk-V7 ]](https://gitee.com/budwk/budwk)：基于 NutzBoot + Sa-Token + Dubbo + Nacos注册&配置中心 的微服务开发脚手架(同时提供单应用版本)，带有配套后台管理前端模板及代码生成器
 
+- [[ xr-satoken-cloud ]](https://gitee.com/fzhxfw/xr-satoken-cloud)：一款基于SaToken轻量级Java权限认证框架构建的微服务后台开发脚手架，基于SpringCloud + SpringCloudAlibaba + Nacos + SaToken + Mybatis等技术搭建，内置RBAC权限管理，代码生成器，文件分片速传等，本项目完全开源免费，定期提交代码到dev开发分支，由个人开发者业余时间维护升级。
 
 
 ### 插件
