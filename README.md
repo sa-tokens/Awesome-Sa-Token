@@ -69,6 +69,9 @@
 
 - [[ springboot-multi-tenant-sa-token ]](https://gitee.com/willf/springboot-multi-tenant-sa-token)：轻量的多租户权限管理系统脚手架（SpringBoot，Sa-Token，mybatis-plus，Vue & Element）。
 
+- [[ solon_angis_beetlsql ]](https://gitee.com/smartcity/solon_angis_beetlsql)：并元国产开发平台 solon、sa-token、beetlsql、smart-http
+
+
 
 ### 微服务相关
 
@@ -93,6 +96,8 @@
 - [[ BudWk-V7 ]](https://gitee.com/budwk/budwk)：基于 NutzBoot + Sa-Token + Dubbo + Nacos注册&配置中心 的微服务开发脚手架(同时提供单应用版本)，带有配套后台管理前端模板及代码生成器
 
 - [[ xr-satoken-cloud ]](https://gitee.com/fzhxfw/xr-satoken-cloud)：一款基于SaToken轻量级Java权限认证框架构建的微服务后台开发脚手架，基于SpringCloud + SpringCloudAlibaba + Nacos + SaToken + Mybatis等技术搭建，内置RBAC权限管理，代码生成器，文件分片速传等，本项目完全开源免费，定期提交代码到dev开发分支，由个人开发者业余时间维护升级。
+
+- [[ CloudEon ]](https://gitee.com/dromara/CloudEon)：一款基于kubernetes的开源大数据平台，旨在为用户提供一种简单、高效、可扩展的大数据解决方案。
 
 
 ### 插件
