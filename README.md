@@ -71,6 +71,7 @@
 
 - [[ solon_angis_beetlsql ]](https://gitee.com/smartcity/solon_angis_beetlsql)：并元国产开发平台 solon、sa-token、beetlsql、smart-http
 
+- [[ zeta-kotlin ]](https://gitee.com/xia5800/zeta-kotlin)：zeta-kotlin是使用kotlin语言基于spring boot、mybatis-plus、sa-token等框架开发的项目脚手架。
 
 
 ### 微服务相关
