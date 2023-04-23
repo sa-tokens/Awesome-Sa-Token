@@ -125,7 +125,7 @@
 
 - [[ cubic ]](https://gitee.com/dromara/cubic)：一站式问题定位平台，实时线程栈监控、线程池监控、动态arthas命令集、依赖分析等等等，助你快速定位问题。
 
-
+- [[ June 12 ]](https://gitee.com/hanshaung/ants)：June 12 是一个纯开源免费的资讯/博客类网站，基于Spring Boot + Sa-Token + Vue开发。
 
 ---
 
