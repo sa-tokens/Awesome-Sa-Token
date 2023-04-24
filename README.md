@@ -100,7 +100,7 @@
 
 - [[ CloudEon ]](https://gitee.com/dromara/CloudEon)：一款基于kubernetes的开源大数据平台，旨在为用户提供一种简单、高效、可扩展的大数据解决方案。
 
-- [[ CloudEon ]](https://github.com/csx-bill/quick-boot)：一款基于 Spring Cloud 2022 、Spring Boot 3、AMIS 和 APIJSON 的低代码系统。
+- [[ quick-boot ]](https://github.com/csx-bill/quick-boot)：一款基于 Spring Cloud 2022 、Spring Boot 3、AMIS 和 APIJSON 的低代码系统。
 
 
 ### 插件
