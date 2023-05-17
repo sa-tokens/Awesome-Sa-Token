@@ -19,6 +19,8 @@
 
 ### 后台管理
 
+- [[ mall4j ]](https://gitee.com/gz-yami/mall4j)：基于Spring Boot 3 JDK17的一个商城手脚架。
+
 - [[ twelvet-fast ]](https://gitee.com/twelvet/twelvet-fast)：基于Spring Boot 3 JDK17的单体服务极速开发管理平台脚手架，先行体验最新技术栈。
 
 - [[ Sa-Plus ]](https://gitee.com/click33/sa-plus)：一个基于 SpringBoot 架构的快速开发框架，内置代码生成器。
