@@ -16,6 +16,9 @@
 
 ---
 
+### 商城服务
+
+- [[ litemall-plus ]](https://gitee.com/ysling-org/litemall-plus)：微信小程序SaaS商城系统，可支持多小程序同时运行。
 
 ### 后台管理
 
