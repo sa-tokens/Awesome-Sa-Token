@@ -22,6 +22,8 @@
 
 ### 后台管理
 
+- [[ srppms ]](https://gitee.com/cai-bin00/srppms)：基于SpringBoot+Vue+sa-token前后端分离的科研项目管理平台。
+
 - [[ mall4j ]](https://gitee.com/gz-yami/mall4j)：基于Spring Boot 3 JDK17的一个商城手脚架。
 
 - [[ twelvet-fast ]](https://gitee.com/twelvet/twelvet-fast)：基于Spring Boot 3 JDK17的单体服务极速开发管理平台脚手架，先行体验最新技术栈。
