@@ -80,6 +80,8 @@
 
 - [[ zeta-kotlin ]](https://gitee.com/xia5800/zeta-kotlin)：zeta-kotlin是使用kotlin语言基于spring boot、mybatis-plus、sa-token等框架开发的项目脚手架。
 
+- [[ nebula-swagger-demo ]](https://gitee.com/flgitee/nebula-swagger-demo)：springboot+nebula 集成knife4j案例
+
 
 ### 微服务相关
 
