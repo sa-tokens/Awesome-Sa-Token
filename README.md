@@ -16,15 +16,10 @@
 
 ---
 
-### 商城服务
-
-- [[ litemall-plus ]](https://gitee.com/ysling-org/litemall-plus)：微信小程序SaaS商城系统，可支持多小程序同时运行。
 
 ### 后台管理
 
 - [[ srppms ]](https://gitee.com/cai-bin00/srppms)：基于SpringBoot+Vue+sa-token前后端分离的科研项目管理平台。
-
-- [[ mall4j ]](https://gitee.com/gz-yami/mall4j)：基于Spring Boot 3 JDK17的一个商城手脚架。
 
 - [[ twelvet-fast ]](https://gitee.com/twelvet/twelvet-fast)：基于Spring Boot 3 JDK17的单体服务极速开发管理平台脚手架，先行体验最新技术栈。
 
@@ -93,8 +88,6 @@
 
 - [[ falser-cloud ]](https://gitee.com/falser/falser-cloud): 基于 SpringCloud Alibaba + SpringCloud gateway + SpringBoot + Sa-Token + vue-admin-template + Nacos + Rabbit MQ + Redis 的一个后台管理系统，前后端分离，权限管理，菜单管理，数据字典，停车场系统管理等功能
 
-- [[ Huanxing-mall ]](https://gitee.com/lijiaxing_boy/huanxing-mall)：HuanXing 商城基于SpringCloud 2021 & Alibaba  + Sa-token，前端基于 Vue3 +Element plus 的微服务商城 
-
 - [[ dcy-fast-cloud ]](https://gitee.com/dcy421/dcy-fast-cloud)：一个基于 SpringCloudAlibaba + Sa-Token + dubbo2.7.8 + Seata + knife4j + Mybatis-Plus + MapStruct +  的后台管理系统，前端vue-element-admin，并且内置代码生成器+动态路由权限等功能
 
 - [[ fhs-framework ]](https://gitee.com/fhs-opensource/fhs-framework)：基于Springboot+Springcloud + Mybatis Plus + Sa-Token + Vue + ElementUI 的快速开发平台(低代码开发平台)，本框架永远免费，永久全开源
@@ -110,6 +103,16 @@
 - [[ CloudEon ]](https://gitee.com/dromara/CloudEon)：一款基于kubernetes的开源大数据平台，旨在为用户提供一种简单、高效、可扩展的大数据解决方案。
 
 - [[ quick-boot ]](https://github.com/csx-bill/quick-boot)：一款基于 Spring Cloud 2022 、Spring Boot 3、AMIS 和 APIJSON 的低代码系统。
+
+
+### 商城服务
+
+- [[ litemall-plus ]](https://gitee.com/ysling-org/litemall-plus)：微信小程序SaaS商城系统，可支持多小程序同时运行。
+
+- [[ mall4j ]](https://gitee.com/gz-yami/mall4j)：基于Spring Boot 3 JDK17的一个商城手脚架。
+
+- [[ Huanxing-mall ]](https://gitee.com/lijiaxing_boy/huanxing-mall)：HuanXing 商城基于SpringCloud 2021 & Alibaba  + Sa-token，前端基于 Vue3 +Element plus 的微服务商城 
+
 
 
 ### 插件
