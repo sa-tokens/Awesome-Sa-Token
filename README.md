@@ -124,7 +124,7 @@
 
 - [[ jthink ]](https://gitee.com/wtsoftware/jthink)： 一个基于 SpringBoot + Sa-Token + Thymeleaf 的博客系统
 
-- [[ Sa-Token-Study ]](https://gitee.com/click33/sa-token-study)：以demo示例的方式讲解 Sa-Token 源码涉及到的技术点，连载中……
+- [[ Sa-Token-Study ]](https://gitee.com/sa-tokens/sa-token-study)：以demo示例的方式讲解 Sa-Token 源码涉及到的技术点，连载中……
 
 - [[ SpringMvc+Sa-Token ]](https://gitee.com/SRD_01/spring-mvc-sa-token): Jsp+SpringMVC+SSO+Sa-Token+Redis | Spring MVC 集成 SaToken Demo 项目
 
