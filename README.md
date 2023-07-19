@@ -142,6 +142,12 @@
 
 - [[ cubic ]](https://gitee.com/dromara/cubic)：一站式问题定位平台，实时线程栈监控、线程池监控、动态arthas命令集、依赖分析等等等，助你快速定位问题。
 
+- [[ ChatGPT-WEB ]](https://github.com/dulaiduwang003/ChatGPT-WEB)：基于JDK17+SpringBoot3+UniApp 绘图 聊天 充值应用。（Web版本）
+
+- [[ SuperBot-ChatGPTApp ]](https://github.com/dulaiduwang003/SuperBot-ChatGPTApp)：基于JDK17+SpringBoot3+UniApp 绘图 聊天 充值应用。（小程序版本）
+
+
+
 ---
 
 Sa-Token 在线文档：[https://sa-token.dev33.cn/](https://sa-token.dev33.cn/)
