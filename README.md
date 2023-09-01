@@ -77,6 +77,7 @@
 
 - [[ nebula-swagger-demo ]](https://gitee.com/flgitee/nebula-swagger-demo)：springboot+nebula 集成knife4j案例
 
+- [[ warm ]](https://gitee.com/min290/warm)：基于solon+vue3开发，jdk17+satoken+redisx/redisson+mybaits-flex+hutool+jackson+mapstruct+poi
 
 ### 微服务相关
 
