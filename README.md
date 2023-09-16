@@ -147,6 +147,12 @@
 
 - [[ SuperBot-ChatGPTApp ]](https://github.com/dulaiduwang003/SuperBot-ChatGPTApp)：基于JDK17+SpringBoot3+UniApp 绘图 聊天 充值应用。（小程序版本）
 
+- [[ ScribbleHub ]](https://github.com/dulaiduwang003/ScribbleHub)：基于SpringBoot+satoken+wxss开发的博客小程序
+
+- [[ TIME-SEA-chatgpt ]](https://github.com/dulaiduwang003/TIME-SEA-chatgpt)：基于SpringBoot+satoken+vue3+uniapp开发的多端Ai平台应用
+
+- [[ SUPERBOT-GPT]](https://github.com/dulaiduwang003/SUPERBOT-GPT)：基于SpringBoot3+satoken+uniapp开发的流量主小程序
+
 
 
 ---
