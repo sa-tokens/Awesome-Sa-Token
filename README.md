@@ -79,6 +79,8 @@
 
 - [[ warm-sun]](https://gitee.com/min290/warm-sun)：基于solon+vue3开发，jdk17+satoken+redisx/redisson+mybaits-flex+hutool+jackson+mapstruct+poi
 
+- [[ContiNew Admin]](https://gitee.com/Charles7c/continew-admin)：ContiNew Admin 中后台管理框架/脚手架，Continue New Admin，持续以最新流行技术栈构建，拥抱变化，迭代优化。当前采用的技术栈：Vue3、TypeScript、Arco Design Vue、Spring Boot3（JDK17）、Undertow、Sa-Token、JWT、MariaDB、MyBatis Plus、Redis、Redisson、Easy Excel、Hutool 等。
+
 ### 微服务相关
 
 - [[ RuoYi-Cloud-Plus ]](https://gitee.com/dromara/RuoYi-Cloud-Plus)：重写RuoYi-Cloud所有功能 整合 SpringCloudAlibaba + Sa-Token + Dubbo + Mybatis-Plus + Xxl-Job 全方位升级 定期同步
