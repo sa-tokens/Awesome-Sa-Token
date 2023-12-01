@@ -19,6 +19,8 @@
 
 ### 后台管理
 
+- [[ EuBackend ]](https://gitee.com/zhaoeryu/eu-backend)：EuBackend 是一套全部开源的前后端分离 Java EE 企业级快速开发平台，基于最新技术栈SpringBoot、Sa-Token、MyBatisPlus等作为后端框架，使用RBAC作为权限控制模型，并且毫无保留给个人及企业免费使用。
+
 - [[ srppms ]](https://gitee.com/cai-bin00/srppms)：基于SpringBoot+Vue+sa-token前后端分离的科研项目管理平台。
 
 - [[ twelvet-fast ]](https://gitee.com/twelvet/twelvet-fast)：基于Spring Boot 3 JDK17的单体服务极速开发管理平台脚手架，先行体验最新技术栈。
