@@ -71,7 +71,7 @@
 
 - [[ RuoYi-Vue-CMS ]](https://gitee.com/liweiyi/RuoYi-Vue-CMS)：RuoYi-Vue-CMS是前后端分离的内容管理系统，支持站群管理、多平台静态化、元数据模型扩展、多语言、全文检索，能轻松组织各种复杂内容形态。技术栈：SpringBoot3 + VUE2 + MybatisPlus + Sa-Token + xxl-job + Freemarker + ES + Redis + MySQL。
 
-- [[ springboot-multi-tenant-sa-token ]](https://gitee.com/willf/springboot-multi-tenant-sa-token)：轻量的多租户权限管理系统脚手架（SpringBoot，Sa-Token，mybatis-plus，Vue & Element）。
+- [[ springboot-multi-tenant-sa-token ]](https://gitee.com/willf/springboot-multi-tenant-sa-token)：轻量的多租户后台管理系统脚手架（SpringBoot，Sa-Token，mybatis-plus，Vue & Element）。
 
 - [[ solon_angis_beetlsql ]](https://gitee.com/smartcity/solon_angis_beetlsql)：并元国产开发平台 solon、sa-token、beetlsql、smart-http
 
