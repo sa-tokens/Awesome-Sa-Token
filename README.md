@@ -109,6 +109,9 @@
 
 - [[ quick-boot ]](https://github.com/csx-bill/quick-boot)：一款基于 Spring Cloud 2022 、Spring Boot 3、AMIS 和 APIJSON 的低代码系统。
 
+- [[ linkin-platform ]](https://gitee.com/paohaizi/linkin-platform)：Springboot + Springcloud + nacos + Mybatis Plus + Sa-Token + Vue3 + ElementPlus
+微服务下使用Sa-Token的样例，是一套比较简洁的后台系统。
+
 
 ### 商城
 
