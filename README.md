@@ -12,7 +12,7 @@
 
 - 将展示在此页面。
 - 可以在 Sa-Token 交流群中宣传推广，为项目带来流量。
-- 按照 star 量排序择取前六名展示在 [官网文档](https://sa-token.cc/index.html) 首页。
+- 按照 star 量排序择取前六名展示在 [官网文档](https://sa-token.cc) 首页。
 
 ---
 
