@@ -145,6 +145,8 @@
 
 ### 其它
 
+- [[ FlyFlow ]](https://gitee.com/junyue/flyflow)：基于SaToken开发的开源工作流系统：FlyFlow借鉴了钉钉与飞书的界面设计理念，致力于打造一款用户友好、快速上手的工作流程工具。
+
 - [[ Sa-Token-Study ]](https://gitee.com/sa-tokens/sa-token-study)：以demo示例的方式讲解 Sa-Token 源码涉及到的技术点，连载中……
 
 - [[ SpringMvc+Sa-Token ]](https://gitee.com/SRD_01/spring-mvc-sa-token): Jsp+SpringMVC+SSO+Sa-Token+Redis | Spring MVC 集成 SaToken Demo 项目
