@@ -20,7 +20,7 @@
 ### 后台管理
 
 
-- [[ newbie-boot3 ]](https://gitee.com/zhang-yuge668/newbie-boot3)：励志打造企业级中大型项目快速开发平台，后端基于JDK21+SpringBoot3+SaToken+MybatisPlus，前端使用FiveAdminV2后台管理系统模板,也是我的开源项目之一，基于js+vue3+vite5+ElementPlus等最新技术栈。
+- [[ newbie-boot3 ]](https://gitee.com/zhang-yuge668/newbie-boot3)：【开发中】企业级中大型项目快速开发平台，后端使用JDK21+SpringBoot3+SaToken+MybatisPlus等，前端基于FiveAdminV2后台管理系统模板开发，使用js+vue3+vite5+ElementPlus等最新技术栈。
 
 - [[ EuBackend ]](https://gitee.com/zhaoeryu/eu-backend)：EuBackend 是一套全部开源的前后端分离 Java EE 企业级快速开发平台，基于最新技术栈SpringBoot、Sa-Token、MyBatisPlus等作为后端框架，使用RBAC作为权限控制模型，并且毫无保留给个人及企业免费使用。
 
