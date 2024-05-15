@@ -167,6 +167,7 @@
 
 - [[ DaxPay ]](https://gitee.com/dromara/dax-pay)：一款免费开源的支付网关系统，支持支付宝、微信、云闪付等通道，提供收单、退款、聚合支付、对账、分账等功能。
 
+- [[ Dinky ]](https://github.com/DataLinkDC/dinky)：基于Apache Flink的实时数据开发平台，实现敏捷的数据开发、部署和运维
 
 ---
 
