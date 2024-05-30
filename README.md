@@ -169,6 +169,8 @@
 
 - [[ Dinky ]](https://github.com/DataLinkDC/dinky)：基于Apache Flink的实时数据开发平台，实现敏捷的数据开发、部署和运维
 
+- [[ mldong ]](https://gitee.com/mldong/mldong)：SpringBoot + Vue3 快速开发平台、自研工作流引擎
+
 ---
 
 Sa-Token 在线文档：[https://sa-token.dev33.cn/](https://sa-token.dev33.cn/)
