@@ -19,6 +19,7 @@
 
 ### 后台管理
 
+- [[ Sz-Admin ]](https://github.com/feiyuchuixue)：一个开源RBAC中后台框架，专为现代应用设计。它结合了最新的技术栈，包括后端的Spring Boot 3、JDK 21、Mybatis Flex、Sa-Token、Knife4j和Flyway，以及前端的Vue 3、Vite5、TypeScript和Element Plus，致力于为您提供一个直观、流畅且功能强大的开发体验。
 
 - [[ newbie-boot3 ]](https://github.com/zhangyuge7/newbie-boot3)：企业级中大型项目快速开发平台，后端使用JDK21+SpringBoot3+SaToken+MybatisPlus等，前端基于FiveAdminV2后台管理系统模板开发，使用js+vue3+vite5+ElementPlus等最新技术栈。
 
