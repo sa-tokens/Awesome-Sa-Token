@@ -89,6 +89,8 @@
 
 ### 微服务相关
 
+- [[ XHan Admin ]](https://gitee.com/sun-xiaohan/xh-admin-frontend)：XHan Admin 是一个开源免费（前后端分离）中后台管理系统基础解决方案, 无专业版收费，所有功能毫无保留的贡献给开源社区，使用最新技术栈全新开发，无任何历史代码包袱。
+
 - [[ RuoYi-Cloud-Plus ]](https://gitee.com/dromara/RuoYi-Cloud-Plus)：重写RuoYi-Cloud所有功能 整合 SpringCloudAlibaba + Sa-Token + Dubbo + Mybatis-Plus + Xxl-Job 全方位升级 定期同步
 
 - [[ Sp-Cloud ]](https://gitee.com/click33/sp-cloud)：Sa-Plus的微服务版本, 基于Spring-Cloud-Alibaba，微服务下使用Sa-Token的样例
