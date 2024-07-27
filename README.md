@@ -119,7 +119,7 @@
 
 - [[ linkin-platform ]](https://gitee.com/paohaizi/linkin-platform)：Springboot + Springcloud + nacos + Mybatis Plus + Sa-Token + Vue3 + ElementPlus
 微服务下使用Sa-Token的样例，是一套比较简洁的后台系统。
-
+- [[ LangChat ]](https://github.com/TyCoding/langchat)：( OpenAI / Gemini / Ollama / Azure / 智谱 / 阿里通义大模型 / 百度千帆大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
 
 ### 商城
 
