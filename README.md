@@ -19,6 +19,8 @@
 
 ### 后台管理
 
+- [[ 灯灯]](https://github.com/dromara/lamp-cloud)：基于java + SpringCloudAlibaba +SpringBoot 开发的微服务中后台快速开发平台，专注于多租户 (SaaS架构) 解决方案，亦可作为普通项目（非SaaS架构）的基础开发框架使用，目前已实现 数据源隔离、字段隔离、无租户隔离 等几种模式。
+
 - [[ 橙单 ]](https://gitee.com/orangeform/orange-admin)：技术栈Boot3 + Flowable7 + Sa-Token + Mybatis-Flex/Mybatis-Plus + Vue3，支持开箱即用且功能完成的工作流和在线表单功能，提供高颜值的流程和表单编辑器全部前后端源码。
 
 - [[ Sz-Admin ]](https://github.com/feiyuchuixue)：一个开源RBAC中后台框架，专为现代应用设计。它结合了最新的技术栈，包括后端的Spring Boot 3、JDK 21、Mybatis Flex、Sa-Token、Knife4j和Flyway，以及前端的Vue 3、Vite5、TypeScript和Element Plus，致力于为您提供一个直观、流畅且功能强大的开发体验。
