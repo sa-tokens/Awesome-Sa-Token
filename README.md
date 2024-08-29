@@ -91,6 +91,9 @@
 
 - [[ContiNew Admin]](https://gitee.com/Charles7c/continew-admin)：ContiNew Admin 中后台管理框架/脚手架，Continue New Admin，持续以最新流行技术栈构建，拥抱变化，迭代优化。当前采用的技术栈：Vue3、TypeScript、Arco Design Vue、Spring Boot3（JDK17）、Undertow、Sa-Token、JWT、MariaDB、MyBatis Plus、Redis、Redisson、Easy Excel、Hutool 等。
 
+- [[laymini-admin]](https://gitee.com/wlf213/laymini-admin)：基于layuimini前端框架开发的一个简单的后台管理前后端不分离框架，主体技术mybatisplus+sa_token+springboot+freemarker，主要功能：RABC认证授权，后台管理功能，集成Quartz动态定时任务。
+
+
 ### 微服务相关
 
 - [[ XHan Admin ]](https://gitee.com/sun-xiaohan/xh-admin-frontend)：XHan Admin 是一个开源免费（前后端分离）中后台管理系统基础解决方案, 无专业版收费，所有功能毫无保留的贡献给开源社区，使用最新技术栈全新开发，无任何历史代码包袱。
@@ -139,6 +142,8 @@
 - [[ 拾壹博客 ]](https://gitee.com/quequnlong/shiyi-blog)：一款vue+springboot前后端分离的博客系统，博客后台管理系统使用了vue+elmentui开发，后端使用Sa-Token进行权限管理,支持动态菜单权限，动态定时任务，文件支持本地和七牛云上传，使用ElasticSearch作为全文检索服务，支持QQ、微博、码云登录。
 
 - [[ June 12 ]](https://gitee.com/hanshaung/ants)：June 12 是一个纯开源免费的资讯/博客类网站，基于Spring Boot + Sa-Token + Vue开发。
+
+- [[ YuanBlog ]](https://gitee.com/wlf213/yuan-blog)：一款代码简单，功能丰富的多人社交博客平台。前后端分离，Vue+SpringBoot3，博客前端使用Quasar，后台管理前端使用NaiveUI，博客后端，后台管理后端分为两个系统，均使用Sa-Token进行认证授权。支持邮箱验证码登录。
 
 
 
