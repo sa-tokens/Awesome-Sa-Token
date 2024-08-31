@@ -93,6 +93,8 @@
 
 - [[laymini-admin]](https://gitee.com/wlf213/laymini-admin)：基于layuimini前端框架开发的一个简单的后台管理前后端不分离框架，主体技术mybatisplus+sa_token+springboot+freemarker，主要功能：RABC认证授权，后台管理功能，集成Quartz动态定时任务。
 
+- [[ Smart-Admin ]](https://gitee.com/lab1024/smart-admin)：SmartAdmin国内首个以「高质量代码」为核心，「简洁、高效、安全」中后台快速开发平台；基于SpringBoot + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x (同时支持JavaScript和TypeScript双版本)；满足国家三级等保要求、支持登录限制、接口数据国产加解密、高防SQL注入等一系列安全体系。
+
 
 ### 微服务相关
 
