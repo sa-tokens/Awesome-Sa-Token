@@ -95,6 +95,7 @@
 
 - [[ Smart-Admin ]](https://gitee.com/lab1024/smart-admin)：SmartAdmin国内首个以「高质量代码」为核心，「简洁、高效、安全」中后台快速开发平台；基于SpringBoot + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x (同时支持JavaScript和TypeScript双版本)；满足国家三级等保要求、支持登录限制、接口数据国产加解密、高防SQL注入等一系列安全体系。
 
+- [[ Halcyon-Admin ]](https://github.com/hhfb8848/halcyon-springboot)：基于 Spring Boot 3 和 Vue 3 的通用后台管理系统，专注于提供基本的管理功能，而非特定的部门管理或业务功能。
 
 ### 微服务相关
 
