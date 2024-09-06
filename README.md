@@ -97,6 +97,8 @@
 
 - [[ Halcyon-Admin ]](https://github.com/hhfb8848/halcyon-springboot)：基于 Spring Boot 3 和 Vue 3 的通用后台管理系统，专注于提供基本的管理功能，而非特定的部门管理或业务功能。
 
+- [[ Breeze-boot-sa-token ]](https://gitee.com/memoryGiter/breeze-boot-satoken)：Breeze-boot 是基于RBAC的权限管理系统，包括用户管理、角色管理、菜单管理、权限管理，使用bpmnJS绘制Flowable流程图等功能，适合Java开发者入门学习或者直接用此项目。
+
 ### 微服务相关
 
 - [[ XHan Admin ]](https://gitee.com/sun-xiaohan/xh-admin-frontend)：XHan Admin 是一个开源免费（前后端分离）中后台管理系统基础解决方案, 无专业版收费，所有功能毫无保留的贡献给开源社区，使用最新技术栈全新开发，无任何历史代码包袱。
@@ -127,6 +129,7 @@
 
 - [[ linkin-platform ]](https://gitee.com/paohaizi/linkin-platform)：Springboot + Springcloud + nacos + Mybatis Plus + Sa-Token + Vue3 + ElementPlus
 微服务下使用Sa-Token的样例，是一套比较简洁的后台系统。
+
 - [[ LangChat ]](https://github.com/TyCoding/langchat)：( OpenAI / Gemini / Ollama / Azure / 智谱 / 阿里通义大模型 / 百度千帆大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
 
 ### 商城
