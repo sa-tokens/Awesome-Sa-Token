@@ -97,7 +97,13 @@
 
 - [[ Halcyon-Admin ]](https://github.com/hhfb8848/halcyon-springboot)：基于 Spring Boot 3 和 Vue 3 的通用后台管理系统，专注于提供基本的管理功能，而非特定的部门管理或业务功能。
 
-- [[ Breeze-boot-sa-token ]](https://gitee.com/memoryGiter/breeze-boot-satoken)：Breeze-boot 是基于RBAC的权限管理系统，包括用户管理、角色管理、菜单管理、权限管理，使用bpmnJS绘制Flowable流程图等功能，适合Java开发者入门学习或者直接用此项目。
+- [ breeze-boot-satoken-xxx系统 ]：breeze-boot-satoken-xxx 是一个开源免费（前后端分离）中后台管理系统基础解决方案，前端技术栈：（ Vue3、 TypeScript、Element Plus、Pinia 、Vite）后端技术栈：（jdk17、 springboot3、SaToken、MybatisPlus等）
+    - SSO 版本，后端：https://gitee.com/breeze-boot/breeze-boot-satoken-sso 
+    - SSO 版本，前端：https://gitee.com/breeze-boot/breeze-vite-ui-satoken-sso 
+    - OAUTH 版本，后端：https://gitee.com/breeze-boot/breeze-boot-satoken-oauth 
+    - OAUTH 版本，前端： https://gitee.com/breeze-boot/breeze-vite-ui-satoken-oauth 
+
+
 
 ### 微服务相关
 
