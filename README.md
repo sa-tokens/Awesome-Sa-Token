@@ -19,6 +19,8 @@
 
 ### 后台管理
 
+- [[ Lucky-Admin-Vue]](https://gitee.com/xiaodu6/lucky-admin-vue)：一个基于vue-admin-template的后台管理框架，集成了动态角色权限，动态路由，角色权限动态配置，日志框架，代码生成，Sa-Token权限校验，快速构建一个后台的开发框架。
+
 - [[ 灯灯]](https://github.com/dromara/lamp-cloud)：基于java + SpringCloudAlibaba +SpringBoot 开发的微服务中后台快速开发平台，专注于多租户 (SaaS架构) 解决方案，亦可作为普通项目（非SaaS架构）的基础开发框架使用，目前已实现 数据源隔离、字段隔离、无租户隔离 等几种模式。
 
 - [[ 橙单 ]](https://gitee.com/orangeform/orange-admin)：技术栈Boot3 + Flowable7 + Sa-Token + Mybatis-Flex/Mybatis-Plus + Vue3，支持开箱即用且功能完成的工作流和在线表单功能，提供高颜值的流程和表单编辑器全部前后端源码。
