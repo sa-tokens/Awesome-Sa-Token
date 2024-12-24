@@ -159,6 +159,8 @@
 
 - [[ YuanBlog ]](https://gitee.com/wlf213/yuan-blog)：一款代码简单，功能丰富的多人社交博客平台。前后端分离，Vue+SpringBoot3，博客前端使用Quasar，后台管理前端使用NaiveUI，博客后端，后台管理后端分为两个系统，均使用Sa-Token进行认证授权。支持邮箱验证码登录。
 
+- [[ 鸢尾博客 ]](https://gitee.com/lxwise/iris-blog_parent)：鸢尾博客是一个基于Spring Boot+Vue3 + TypeScript + Vite+JavaFx的客户端和服务器端的博客系统。项目采用前端与后端分离，支持移动端自适应，配有完备的前台和后台管理功能。后端使用Sa-Token进行权限管理,支持动态菜单权限，服务健康监控，数据流量统计，支持QQ、微博、码云、GitHub等三方登录。
+
 
 
 ### 插件
