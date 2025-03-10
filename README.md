@@ -63,7 +63,7 @@
 
 - [[ ExciteCMS-Layui ]](https://gitee.com/ExciteTeam/ExciteCMS-SpringBoot-Layui)：ExciteCMS 快速开发脚手架：一款后端基于 SpringBoot2 + Sa-Token + Mybatis-Plus，前端基于 Layuimini 的内容管理系统，具备RBAC、日志管理、代码生成等功能，并集成常用的支付、OSS等第三方服务，拥有详细的开发文档
 
-- [[ sss-rbac-admin ]](https://gitee.com/momoljw/sss-rbac-admin)：基于springboot，整合satoken、sqltoy的权限管理系统
+- [[ sra-admin ]](https://github.com/CoCoTeaNet/sra-admin)：快速开发脚手架，核心依赖：springboot3+sqltoy+satoken+hutool | 轻量级 | 只实现了用户、字典、角色、权限等常见功能，能够快速搭建一个web项目。
 
 - [[ QuickBuild ]](https://gitee.com/CodeLiQing/custom-quick-build-platform): 快速构建 | 基于springboot+sa-token+neety+代码生产器（生成vue页面和增删改查代码）| 以及前端vue3和字节arco.design框架整合 
 
