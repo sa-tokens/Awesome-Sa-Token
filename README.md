@@ -19,6 +19,8 @@
 
 ### 后台管理
 
+- [[ art-design-pro-java ]](https://github.com/anganing/art-design-pro-java)：SpringBoot17+Sa-token+Art-Design-Pro+Unibest 技术栈的企业级后台开发管理系统。
+
 - [[ wemirr-platform ]](https://gitee.com/battcn/wemirr-platform)：JDK17、SCA2023、SC2024、Sa-Token、VBen5.x 全网最炫酷，功能最多，最优雅地真开源 多租户、SAAS 微服务项目。
 
 - [[ Lucky-Admin-Vue ]](https://gitee.com/xiaodu6/lucky-admin-vue)：一个基于vue-admin-template的后台管理框架，集成了动态角色权限，动态路由，角色权限动态配置，日志框架，代码生成，Sa-Token权限校验，快速构建一个后台的开发框架。
