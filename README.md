@@ -177,6 +177,8 @@
 
 ### 其它
 
+- [[ Glowxq-OJ ]](https://github.com/glowxq/glowxq-oj)：Glowxq-OJ 专业开源在线编程测评系统 | 基于Spring Boot 3.x + Java 21 + Vue 3构建 | 支持ACM/ICPC竞赛、信奥赛训练、编程教育 | 多语言判题、实时竞赛、在线IDE | Docker一键部署 | Modern Online Judge Platform for Competitive Programming & Coding Education。
+
 - [[ FlyFlow ]](https://gitee.com/junyue/flyflow)：基于SaToken开发的开源工作流系统：FlyFlow借鉴了钉钉与飞书的界面设计理念，致力于打造一款用户友好、快速上手的工作流程工具。
 
 - [[ Sa-Token-Study ]](https://gitee.com/sa-tokens/sa-token-study)：以demo示例的方式讲解 Sa-Token 源码涉及到的技术点，连载中……
