@@ -172,6 +172,15 @@
 - [[ quarkus-sa-token ]](https://github.com/quarkiverse/quarkus-sa-token)： quarkus 整合 Sa-Token。
 
 
+### 多语言
+
+- Rust：[[ sa-token-rust ]](https://github.com/llc-993/sa-token-rust)： 一个轻量级、高性能的 Rust 认证授权框架。
+
+- Go：[[ sa-token-go ]](https://github.com/click33/sa-token-go)： 一个轻量级、高性能的 Go 权限认证框架。
+
+- PHP：[[ real-token ]](https://gitee.com/jinan-jimeng-network_0/real-token)： 一个轻量级 thinkphp6 权限认证框架，让鉴权变得简单、优雅！
+
+
 
 ### 其它
 
