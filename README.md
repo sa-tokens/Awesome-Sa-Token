@@ -106,7 +106,7 @@
     - SSO 版本，前端：https://gitee.com/breeze-boot/breeze-vite-ui-satoken-sso 
     - OAUTH 版本，后端：https://gitee.com/breeze-boot/breeze-boot-satoken-oauth 
     - OAUTH 版本，前端： https://gitee.com/breeze-boot/breeze-vite-ui-satoken-oauth 
-- [[ Summer-Flowers · 夏花 ]](https://github.com/Luv404/summer-flowers)：基于 **Spring Boot 3 + JPA + QueryDSL + Sa-Token** 的企业级后台开发框架，前端采用 **SoybeanAdmin**。不同于常见 MyBatis 体系，Summer-Flowers 以 **Entity 作为业务第一表达**，通过 QueryDSL 实现类型安全的复杂查询，配合代码生成器与模块化架构，显著降低中长期项目的维护成本。
+- [[ Summer-Flowers · 夏花 ]](https://gitee.com/Luv404/summer-flowers)：基于 **Spring Boot 3 + JPA + QueryDSL + Sa-Token** 的企业级后台开发框架，前端采用 **SoybeanAdmin**。不同于常见 MyBatis 体系，Summer-Flowers 以 **Entity 作为业务第一表达**，通过 QueryDSL 实现类型安全的复杂查询，配合代码生成器与模块化架构，显著降低中长期项目的维护成本。
 
 
 
