@@ -216,4 +216,4 @@
 
 ---
 
-Sa-Token 在线文档：[https://sa-token.dev33.cn/](https://sa-token.dev33.cn/)
+Sa-Token 在线文档：[https://sa-token.cc/](https://sa-token.cc/)
