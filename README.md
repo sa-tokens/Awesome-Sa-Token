@@ -6,7 +6,7 @@
 
 - 项目必须是开源项目，且功能具有一定完备性，而不是一个临时 Demo。
 - 可以是后台管理、插件、博客等任意类型的项目，无 star 数量要求，即使是刚刚开源的项目，也可以提交。
-- 符合要求的项目直接通过 [issue](https://gitee.com/sa-token/awesome-sa-token/issues) 或 [pr](https://gitee.com/sa-token/awesome-sa-token/blob/master/README.md) 提交即可（💡 推荐 pr 方式，简单直接）
+- 符合要求的项目直接通过 issue 或 pr 提交即可（💡 推荐 pr 方式，简单直接）
 
 ✨ 经过 Sa-Token 开发组审核通过后：
 
