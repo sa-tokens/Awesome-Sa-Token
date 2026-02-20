@@ -1,23 +1,23 @@
 # Awesome Sa-Token 
 
-> 集成 Sa-Token 的开源案例收集
+> 📚 集成 Sa-Token 的开源案例收集
 
-### 提交要求
+### 📋 提交要求
 
 - 项目必须是开源项目，且功能具有一定完备性，而不是一个临时 Demo。
 - 可以是后台管理、插件、博客等任意类型的项目，无 star 数量要求，即使是刚刚开源的项目，也可以提交。
-- 符合要求的项目直接通过 [issue](https://gitee.com/sa-token/awesome-sa-token/issues) 或 [pr](https://gitee.com/sa-token/awesome-sa-token/blob/master/README.md) 提交即可。
+- 符合要求的项目直接通过 [issue](https://gitee.com/sa-token/awesome-sa-token/issues) 或 [pr](https://gitee.com/sa-token/awesome-sa-token/blob/master/README.md) 提交即可（💡 推荐 pr 方式，简单直接）
 
-经过 Sa-Token 开发组审核通过后：
+✨ 经过 Sa-Token 开发组审核通过后：
 
-- 将展示在此页面。
-- 可以在 Sa-Token 交流群中宣传推广，为项目带来流量。
-- 按照 star 量排序择取前六名展示在 [官网文档](https://sa-token.cc) 首页。
+- 将展示在此页面
+- 可以在 Sa-Token 交流群中宣传推广，为项目带来流量
+- 按照 star 量排序择取前六名展示在 [官网文档](https://sa-token.cc) 首页
 
 ---
 
 
-### 后台管理
+### 🎛️ 后台管理
 
 - [[ art-design-pro-java ]](https://github.com/anganing/art-design-pro-java)：SpringBoot17+Sa-token+Art-Design-Pro+Unibest 技术栈的企业级后台开发管理系统。
 
@@ -111,7 +111,7 @@
 
 
 
-### 微服务相关
+### 🚀 微服务相关
 
 - [[ XHan Admin ]](https://gitee.com/sun-xiaohan/xh-admin-frontend)：XHan Admin 是一个开源免费（前后端分离）中后台管理系统基础解决方案, 无专业版收费，所有功能毫无保留的贡献给开源社区，使用最新技术栈全新开发，无任何历史代码包袱。
 
@@ -144,7 +144,7 @@
 
 - [[ LangChat ]](https://github.com/TyCoding/langchat)：( OpenAI / Gemini / Ollama / Azure / 智谱 / 阿里通义大模型 / 百度千帆大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
 
-### 商城
+### 🛒 商城
 
 - [[ litemall-plus ]](https://gitee.com/ysling-org/litemall-plus)：微信小程序SaaS商城系统，可支持多小程序同时运行。
 
@@ -153,7 +153,7 @@
 - [[ Huanxing-mall ]](https://gitee.com/lijiaxing_boy/huanxing-mall)：HuanXing 商城基于SpringCloud 2021 & Alibaba  + Sa-token，前端基于 Vue3 +Element plus 的微服务商城 
 
 
-### 博客
+### 📝 博客
 
 - [[ jthink ]](https://gitee.com/wtsoftware/jthink)： 一个基于 SpringBoot + Sa-Token + Thymeleaf 的博客系统
 
@@ -167,24 +167,24 @@
 
 
 
-### 插件
+### 🔌 插件
 
 - [[ Sa-Token-Plugin ]](https://gitee.com/bootx/sa-token-plugin)：Sa-Token第三方插件实现，基于Sa-Token-Core，提供一些与官方不同实现机制的的插件集合，作为Sa-Token开源生态的补充
 
 - [[ quarkus-sa-token ]](https://github.com/quarkiverse/quarkus-sa-token)： quarkus 整合 Sa-Token。
 
 
-### 多语言
+### 🌐 多语言
 
-- Rust：[[ sa-token-rust ]](https://github.com/llc-993/sa-token-rust)： 一个轻量级、高性能的 Rust 认证授权框架。
+- Rust：[[ sa-token-rust ]](https://github.com/sa-tokens/sa-token-rust)： 一个轻量级、高性能的 Rust 认证授权框架。
 
-- Go：[[ sa-token-go ]](https://github.com/click33/sa-token-go)： 一个轻量级、高性能的 Go 权限认证框架。
+- Go：[[ sa-token-go ]](https://github.com/sa-tokens/sa-token-go)： 一个轻量级、高性能的 Go 权限认证框架。
 
 - PHP：[[ real-token ]](https://gitee.com/jinan-jimeng-network_0/real-token)： 一个轻量级 thinkphp6 权限认证框架，让鉴权变得简单、优雅！
 
 
 
-### 其它
+### 📦 其它
 
 - [[ Glowxq-OJ ]](https://github.com/glowxq/glowxq-oj)：Glowxq-OJ 专业开源在线编程测评系统 | 基于Spring Boot 3.x + Java 21 + Vue 3构建 | 支持ACM/ICPC竞赛、信奥赛训练、编程教育 | 多语言判题、实时竞赛、在线IDE | Docker一键部署 | Modern Online Judge Platform for Competitive Programming & Coding Education。
 
@@ -216,4 +216,4 @@
 
 ---
 
-Sa-Token 在线文档：[https://sa-token.cc/](https://sa-token.cc/)
+📖 **Sa-Token 在线文档**：[https://sa-token.cc/](https://sa-token.cc/)
