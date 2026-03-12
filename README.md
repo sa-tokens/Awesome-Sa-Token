@@ -150,8 +150,7 @@
 
 - [[ mall4j ]](https://gitee.com/gz-yami/mall4j)：基于Spring Boot 3 JDK17的一个商城手脚架。
 
-- [[ Huanxing-mall ]](https://gitee.com/lijiaxing_boy/huanxing-mall)：HuanXing 商城基于SpringCloud 2021 & Alibaba  + Sa-token，前端基于 Vue3 +Element plus 的微服务商城 
-
+- [[ haorong-mall ]](https://gitee.com/haorongtech/haorong-mall)：浩荣商城（Haorong Mall）是一套面向中小型商业落地的企业级全栈电商解决方案，核心特性是支持「单体架构 ↔ 微服务架构」自由切换，基于 Java 17 + Spring Boot 3 + Spring Cloud Alibaba + Dubbo + Sa-Token 技术栈构建，原生支持多租户，采用 MIT 协议开源，可直接用于企业级电商业务落地与二次开发。
 
 ### 📝 博客
 
