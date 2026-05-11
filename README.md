@@ -186,6 +186,8 @@
 
 ### 📦 其它
 
+- [[ free-fs ]](https://github.com/dromara/free-fs)：基于 Spring Boot 4.x的企业级网盘系统。支持分片上传、断点续传、秒传、文件分享、在线预览。集成阿里云OSS、七牛云Kodo、S3体系、本地存储等多种存储方式。提供文件管理、用户权限、存储配额、回收站等完整功能。适用于企业网盘、文件管理、云存储、资源管理等场景。
+- 
 - [[ Glowxq-OJ ]](https://github.com/glowxq/glowxq-oj)：Glowxq-OJ 专业开源在线编程测评系统 | 基于Spring Boot 3.x + Java 21 + Vue 3构建 | 支持ACM/ICPC竞赛、信奥赛训练、编程教育 | 多语言判题、实时竞赛、在线IDE | Docker一键部署 | Modern Online Judge Platform for Competitive Programming & Coding Education。
 
 - [[ FlyFlow ]](https://gitee.com/junyue/flyflow)：基于SaToken开发的开源工作流系统：FlyFlow借鉴了钉钉与飞书的界面设计理念，致力于打造一款用户友好、快速上手的工作流程工具。
