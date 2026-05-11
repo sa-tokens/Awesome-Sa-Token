@@ -154,6 +154,8 @@
 
 - [[ haorong-mall ]](https://gitee.com/haorongtech/haorong-mall)：浩荣商城（Haorong Mall）是一套面向中小型商业落地的企业级全栈电商解决方案，核心特性是支持「单体架构 ↔ 微服务架构」自由切换，基于 Java 17 + Spring Boot 3 + Spring Cloud Alibaba + Dubbo + Sa-Token 技术栈构建，原生支持多租户，采用 MIT 协议开源，可直接用于企业级电商业务落地与二次开发。
 
+- [[ mall-swarm ]](https://gitee.com/macrozheng/mall-swarm)：mall-swarm是一套微服务商城系统，采用了 Spring Cloud 2023 & Alibaba、Spring Boot 3.2、Sa-Token、MyBatis、Elasticsearch、Docker、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
+
 ### 📝 博客
 
 - [[ jthink ]](https://gitee.com/wtsoftware/jthink)： 一个基于 SpringBoot + Sa-Token + Thymeleaf 的博客系统
