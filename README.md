@@ -185,6 +185,8 @@
 
 - PHP：[[ real-token ]](https://gitee.com/jinan-jimeng-network_0/real-token)： 一个轻量级 thinkphp6 权限认证框架，让鉴权变得简单、优雅！
 
+- Node.js：[[ xlt-token ]](https://github.com/xiaoLangtou/xlt-token)：xlt-token 是一个为 NestJS 设计的轻量级 token 认证库，灵感来源于 Java 的 Sa-Token。它提供了灵活的 token 管理、会话控制、多端登录支持，以及可插拔的存储策略。
+
 
 
 ### 📦 其它
