@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^git add -A; git commit -m \"docs\\(git-commit-push\\): 支持传入确认参数跳过确认步骤\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
