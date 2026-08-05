@@ -108,6 +108,24 @@
     - OAUTH 版本，前端： https://gitee.com/breeze-boot/breeze-vite-ui-satoken-oauth 
 - [[ Summer-Flowers · 夏花 ]](https://gitee.com/Luv404/summer-flowers)：基于 **Spring Boot 3 + JPA + QueryDSL + Sa-Token** 的企业级后台开发框架，前端采用 **SoybeanAdmin**。不同于常见 MyBatis 体系，Summer-Flowers 以 **Entity 作为业务第一表达**，通过 QueryDSL 实现类型安全的复杂查询，配合代码生成器与模块化架构，显著降低中长期项目的维护成本。
 
+- [[ Ruoyi-Fast-Service ]](https://gitee.com/zccbbg/ruoyi-fast-service)：重写 RuoYi-Vue 所有功能，集成 Sa-Token、Mybatis-Plus、SpringDoc、Hutool、OSS，定期同步更新。
+
+- [[ ChestnutCMS ]](https://gitee.com/liweiyi/ChestnutCMS)：前后端分离内容管理系统，基于 RuoYi-Vue 重构，技术栈 SpringBoot3 + Vue3 + Mybatis-Plus + Sa-Token + Freemarker + ES + Redis，支持站群管理、多平台静态化、元数据模型扩展与全文检索。
+
+- [[ SpringBoot-Manager ]](https://gitee.com/zwens/springboot-manager)：基于 SpringBoot + Mybatis-Plus + Sa-Token + Thymeleaf + Layui 的后台管理系统，开箱即用。
+
+- [[ Ruoyi-Flex ]](https://gitee.com/dataprince/ruoyi-flex)：SpringBoot3 平台快速开发框架，集成 JDK21、MyBatis-Flex、Sa-Token、Flowable、MinIO、PowerJob、Vue3 + ElementPlus + Vben 等，面向中长期项目维护。
+
+- [[ Snowy-Lite ]](https://gitee.com/xiaonuoadmin/snowy-lite)：Snowy 轻量版，采用 Solon + MyBatis-Flex + HuTool + Sa-Token 替代 Spring 生态，集成国密加解密，开源版完全免费。
+
+- [[ SpringBoot-Admin ]](https://github.com/wdjisn/SpringBoot-Admin)：基于 SpringBoot + Vue 的通用后台管理系统，集成 Sa-Token 权限认证、可视化大屏、RBAC 权限、操作日志与七牛云上传等，开箱即用。
+
+- [[ Keen ]](https://github.com/SinceNovember/keen)：基于 Vue + SpringBoot + Sa-Token + Mybatis + Netty 的前后端分离后台管理系统，含用户聊天、附件管理与 RBAC 权限。
+
+- [[ Youcan-Solon ]](https://gitee.com/gollyhu/youcan-solon)：基于 Solon 框架的 WEB 脚手架，功能类似 RuoYi，采用国产开源组件栈，集成 Sa-Token-Solon 插件，适合后端开发者快速上手。
+
+- [[ FNK-Server ]](https://github.com/daxiangme/fnk-server)：中后台服务端脚手架，基于 SpringBoot3 + Sa-Token + Naive UI + TypeScript，适合快速搭建管理类应用。
+
 
 
 
@@ -146,6 +164,10 @@
 
 - [[ LangChat ]](https://github.com/TyCoding/langchat)：( OpenAI / Gemini / Ollama / Azure / 智谱 / 阿里通义大模型 / 百度千帆大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
 
+- [[ Niucloud-Admin-Java ]](https://gitee.com/niucloud-team/niucloud-admin-java)：JAVA SaaS 多应用管理框架，插件化 + 云安装 + 云编译，基于 SpringBoot + MyBatis-Plus + Sa-Token，源码全部开源无加密。
+
+- [[ AI-Tourism ]](https://github.com/1937983507/ai-tourism)：智能旅游规划系统，后端 Spring Boot 3 + LangChain4j + MyBatis + Sa-Token，集成多种 AI 能力，支持个性化路线推荐、会话管理与流式问答。
+
 ### 🛒 商城
 
 - [[ litemall-plus ]](https://gitee.com/ysling-org/litemall-plus)：微信小程序SaaS商城系统，可支持多小程序同时运行。
@@ -167,6 +189,8 @@
 - [[ YuanBlog ]](https://gitee.com/wlf213/yuan-blog)：一款代码简单，功能丰富的多人社交博客平台。前后端分离，Vue+SpringBoot3，博客前端使用Quasar，后台管理前端使用NaiveUI，博客后端，后台管理后端分为两个系统，均使用Sa-Token进行认证授权。支持邮箱验证码登录。
 
 - [[ 鸢尾博客 ]](https://gitee.com/lxwise/iris-blog_parent)：鸢尾博客是一个基于Spring Boot+Vue3 + TypeScript + Vite+JavaFx的客户端和服务器端的博客系统。项目采用前端与后端分离，支持移动端自适应，配有完备的前台和后台管理功能。后端使用Sa-Token进行权限管理,支持动态菜单权限，服务健康监控，数据流量统计，支持QQ、微博、码云、GitHub等三方登录。
+
+- [[ 儒林小栈 ]](https://gitee.com/chengxuru/rulin-blog)：基于微服务架构的前后端分离博客系统，SpringBoot + Mybatis-Plus + Sa-Token + ElasticSearch，含面试题管理，支持本地/七牛云/阿里云 OSS 文件存储。
 
 
 
@@ -225,6 +249,14 @@
 - [[ Dinky ]](https://github.com/DataLinkDC/dinky)：基于Apache Flink的实时数据开发平台，实现敏捷的数据开发、部署和运维
 
 - [[ mldong ]](https://gitee.com/mldong/mldong)：SpringBoot + Vue3 快速开发平台、自研工作流引擎
+
+- [[ Flow ]](https://gitee.com/lwj/flow)：企业级流程中心，基于 Flowable 和 bpmn.js 封装流程引擎，采用 SpringBoot + Mybatis-Plus + Sa-Token + Vue3(Vben) 技术栈，MIT 开源。
+
+- [[ H5VE-Boot ]](https://gitee.com/h5ve/h5ve-boot)：数据驱动的企业级低代码开发平台，集成 Warm-Flow 工作流引擎，技术栈 Spring Boot + Mybatis-Plus + Sa-Token + Vue + uni-app，支持可视化表单/流程/触发器开发与 AI 页面生成。
+
+- [[ Van-App ]](https://github.com/L1yp/van-app)：SpringBoot + Flowable/Activiti/Camunda + RBAC + Mybatis-Plus 工作流实战项目，集成 Sa-Token 权限认证与 SpringCache。
+
+- [[ CourseArragement ]](https://github.com/javashub/CourseArragement)：基于 SpringBoot + Sa-Token + Mybatis-Plus 的教务课程管理系统，前后端分离架构。
 
 ---
 
