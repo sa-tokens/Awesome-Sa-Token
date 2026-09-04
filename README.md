@@ -217,6 +217,8 @@
 
 - [[ customer_work ]](https://github.com/liulangjietou/customer_work)：基于 Sa-Token 构建的企业级智能体客服系统，包含 H5 客户端与后台运营。
 
+- [[ kb-rag ]](https://github.com/liulangjietou/kb-rag)：可自托管的企业级知识库 RAG 系统，支持文档解析、向量与 BM25 混合检索、标注评测闭环。
+
 - [[ Lucky-Auth ]](https://gitee.com/xiaodu6/lucky-auth)：面向软件开发者的云端授权服务：软件/版本/变量配置、卡密生成与计费（免费/时间收费/点数收费）、单卡/账密两种登录模式、代理分销体系、在线验证与监控。客户端（如易语言编写的软件）通过加密接口接入。
 
 - [[ NextDoc4j ]](https://gitee.com/nextdoc4j)：NextDoc4j 组织致力于打造专为 SpringDoc 和 OpenAPI 3 设计的现代化文档生态体系，核心目标是替代传统 Swagger UI，为开发者提供更美观、可定制性更强、体验更优的 API 文档展示与管理解决方案。
