@@ -139,7 +139,7 @@
 
 - [[ Sp-Cloud ]](https://gitee.com/click33/sp-cloud)：Sa-Plus的微服务版本, 基于Spring-Cloud-Alibaba，微服务下使用Sa-Token的样例
 
-- [[ YC-Framework ]](http://framework.youcongtech.com/)：致力于打造一款优秀的分布式微服务解决方案
+- [[ YC-Framework ]](https://gitee.com/youcongtech/yc-framework)：致力于打造一款优秀的分布式微服务解决方案
 
 - [[ falser-cloud ]](https://gitee.com/falser/falser-cloud): 基于 SpringCloud Alibaba + SpringCloud gateway + SpringBoot + Sa-Token + vue-admin-template + Nacos + Rabbit MQ + Redis 的一个后台管理系统，前后端分离，权限管理，菜单管理，数据字典，停车场系统管理等功能
 
