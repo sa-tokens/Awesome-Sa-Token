@@ -175,6 +175,8 @@
 
 ### 📝 博客
 
+- [[ RenZS Blog ]](https://gitee.com/chen_fuyun/blog-satoken)：RenZS Blog - 基于 SpringBoot + Vue3 + Sa-Token 的前后端分离博客系统
+
 - [[ jthink ]](https://gitee.com/wtsoftware/jthink)： 一个基于 SpringBoot + Sa-Token + Thymeleaf 的博客系统
 
 - [[ 拾壹博客 ]](https://gitee.com/quequnlong/shiyi-blog)：一款vue+springboot前后端分离的博客系统，博客后台管理系统使用了vue+elmentui开发，后端使用Sa-Token进行权限管理,支持动态菜单权限，动态定时任务，文件支持本地和七牛云上传，使用ElasticSearch作为全文检索服务，支持QQ、微博、码云登录。
