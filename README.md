@@ -159,9 +159,6 @@
 
 - [[ quick-boot ]](https://github.com/csx-bill/quick-boot)：一款基于 Spring Cloud 2022 、Spring Boot 3、AMIS 和 APIJSON 的低代码系统。
 
-- [[ linkin-platform ]](https://gitee.com/paohaizi/linkin-platform)：Springboot + Springcloud + nacos + Mybatis Plus + Sa-Token + Vue3 + ElementPlus
-微服务下使用Sa-Token的样例，是一套比较简洁的后台系统。
-
 - [[ LangChat ]](https://github.com/TyCoding/langchat)：( OpenAI / Gemini / Ollama / Azure / 智谱 / 阿里通义大模型 / 百度千帆大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
 
 - [[ Niucloud-Admin-Java ]](https://gitee.com/niucloud-team/niucloud-admin-java)：JAVA SaaS 多应用管理框架，插件化 + 云安装 + 云编译，基于 SpringBoot + MyBatis-Plus + Sa-Token，源码全部开源无加密。
