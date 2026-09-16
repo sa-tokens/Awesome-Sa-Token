@@ -183,8 +183,6 @@
 
 - [[ YuanBlog ]](https://gitee.com/wlf213/yuan-blog)：一款代码简单，功能丰富的多人社交博客平台。前后端分离，Vue+SpringBoot3，博客前端使用Quasar，后台管理前端使用NaiveUI，博客后端，后台管理后端分为两个系统，均使用Sa-Token进行认证授权。支持邮箱验证码登录。
 
-- [[ 鸢尾博客 ]](https://gitee.com/lxwise/iris-blog_parent)：鸢尾博客是一个基于Spring Boot+Vue3 + TypeScript + Vite+JavaFx的客户端和服务器端的博客系统。项目采用前端与后端分离，支持移动端自适应，配有完备的前台和后台管理功能。后端使用Sa-Token进行权限管理,支持动态菜单权限，服务健康监控，数据流量统计，支持QQ、微博、码云、GitHub等三方登录。
-
 - [[ 儒林小栈 ]](https://gitee.com/chengxuru/rulin-blog)：基于微服务架构的前后端分离博客系统，SpringBoot + Mybatis-Plus + Sa-Token + ElasticSearch，含面试题管理，支持本地/七牛云/阿里云 OSS 文件存储。
 
 
@@ -230,7 +228,7 @@
 
 - [[ SpringMvc+Sa-Token ]](https://gitee.com/SRD_01/spring-mvc-sa-token): Jsp+SpringMVC+SSO+Sa-Token+Redis | Spring MVC 集成 SaToken Demo 项目
 
-- [[ iot-kit ]](https://gitee.com/iotkit-open-source/iotkit-parent)：一个轻量级低门槛的物联网平台，包含了多协议设备接入、规则引擎、第三方平台接入、智能家居小程序等模块的项目，基于SpringBoot架构并集成了Sa-Token的OAuth2认证。
+- [[ iot-kit ]](https://gitee.com/open-iita/iotkitparent)：一个轻量级低门槛的物联网平台，包含了多协议设备接入、规则引擎、第三方平台接入、智能家居小程序等模块的项目，基于SpringBoot架构并集成了Sa-Token的OAuth2认证。
 
 - [[ cubic ]](https://gitee.com/dromara/cubic)：一站式问题定位平台，实时线程栈监控、线程池监控、动态arthas命令集、依赖分析等等等，助你快速定位问题。
 
