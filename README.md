@@ -124,6 +124,8 @@
 
 - [[ FNK-Server ]](https://github.com/daxiangme/fnk-server)：中后台服务端脚手架，基于 SpringBoot3 + Sa-Token + Naive UI + TypeScript，适合快速搭建管理类应用。
 
+- [[ Zhush-Ai-Boot ]](https://gitee.com/primay/zhush-boot4-ai-parent)：AI 优先的后台管理系统底座，基于 Spring Boot 4 + Java 21 + MyBatis-Flex + Sa-Token + AgentScope，支持多智能体编排、工具调用、SSE 流式对话与多模态生成，兼具 RBAC、页面化数据权限与 SQL 审计；前端配套 [Vue Vben Admin](https://gitee.com/primay/zhush-vue3-admin-ui-ai)。
+
 
 
 
