@@ -262,6 +262,8 @@
 
 - [[ CourseArragement ]](https://github.com/javashub/CourseArragement)：基于 SpringBoot + Sa-Token + Mybatis-Plus 的教务课程管理系统，前后端分离架构。
 
+- [[ Amour ]](https://github.com/codesensi/Amour)：基于 Spring Boot 4 + JDK 21 + Sa-Token + Vue3 的情侣专属应用，涵盖纪念日、情侣日记、恋爱画册、足迹地图、留言簿、时间胶囊等门户展示与用户角色权限、日志审计、参数字典、定时任务、数据仪表盘等完整管理后台，Docker 私有化部署。
+
 ---
 
 📖 **Sa-Token 在线文档**：[https://sa-token.cc/](https://sa-token.cc/)
