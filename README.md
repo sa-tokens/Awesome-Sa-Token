@@ -126,6 +126,8 @@
 
 - [[ Zhush-Ai-Boot ]](https://gitee.com/primay/zhush-boot4-ai-parent)：AI 优先的后台管理系统底座，基于 Spring Boot 4 + Java 21 + MyBatis-Flex + Sa-Token + AgentScope，支持多智能体编排、工具调用、SSE 流式对话与多模态生成，兼具 RBAC、页面化数据权限与 SQL 审计；前端配套 [Vue Vben Admin](https://gitee.com/primay/zhush-vue3-admin-ui-ai)。
 
+- [[ NuoCao · 糯草 ]](https://gitee.com/yulei6/nuo-cao-server)：基于 Java 17 + Solon + Sa-Token 的轻量级多租户后台管理框架，内置租户隔离、国密加密、权限扩展、双重验证、代码生成、站内信与多语言，模块按插件拆分，可按需裁剪；前端配套 Vue 3 + Element Plus。
+
 
 
 
